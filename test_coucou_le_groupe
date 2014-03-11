@@ -3,3 +3,5 @@ Coucou
 passons à l'HTML!! 
 
 Sans oublier le CSS !!
+
+On peut même modifier les fichiers directement avec la console grâce à la commande vim nom_du_fichier !
