@@ -1,2 +1,7 @@
 Charger un fichier
 git add <nom fichier>
+git commit
+i (insertion) blabla... + Echap + : + wq
+git push
+login
+password
